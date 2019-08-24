@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 258 258" enable-background="new 0 0 258 258" xml:space="preserve">
+<g>
+	<defs>
+		<path id="SVGID_1_" d="M257.8,129C257.8,57.8,200.2,0.2,129,0.2S0.2,57.8,0.2,129S57.8,257.8,129,257.8S257.8,200.2,257.8,129"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="204.4532" y1="37.9889" x2="-25.6267" y2="315.5089">
+		<stop  offset="0" style="stop-color:#FB7070"/>
+		<stop  offset="1" style="stop-color:#FD1717"/>
+	</linearGradient>
+	<rect x="0.2" y="0.2" clip-path="url(#SVGID_2_)" fill="url(#SVGID_3_)" width="257.7" height="257.7"/>
+</g>
+<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" points="185.9,129 138.7,156.3 91.4,183.6 91.4,129 91.4,74.4 
+	138.7,101.7 "/>
+</svg>

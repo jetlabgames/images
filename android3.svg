@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 258 258" enable-background="new 0 0 258 258" xml:space="preserve">
+<g>
+	<defs>
+		<path id="SVGID_1_" d="M129,257.8c71.2,0,128.8-57.7,128.8-128.8S200.2,0.2,129,0.2S0.2,57.8,0.2,129S57.8,257.8,129,257.8"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="41.9091" y1="223.802" x2="302.7991" y2="-60.188">
+		<stop  offset="0" style="stop-color:#57B43E"/>
+		<stop  offset="1" style="stop-color:#B0DE4A"/>
+	</linearGradient>
+	<rect x="0.2" y="0.2" clip-path="url(#SVGID_2_)" fill="url(#SVGID_3_)" width="257.7" height="257.7"/>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M97.5,77.3h63v93.9h-63V77.3z M116.9,187h24.2
+	c2.4,0,4.3-1.9,4.3-4.3v0c0-2.4-1.9-4.3-4.3-4.3h-24.2c-2.4,0-4.3,1.9-4.3,4.3v0C112.6,185,114.5,187,116.9,187z M84,63.5h90v131.1
+	H84V63.5z"/>
+</svg>
