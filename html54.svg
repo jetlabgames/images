@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 200 200" enable-background="new 0 0 200 200" xml:space="preserve">
-<g>
-	<defs>
-		<path id="SVGID_1_" d="M29.3,23.9h141.4c-4,44.7-8,89.3-12,134L100,176.1l-58.8-18.3C37.3,113.2,33.3,68.6,29.3,23.9"/>
-	</defs>
-	<clipPath id="SVGID_2_">
-		<use xlink:href="#SVGID_1_"  overflow="visible"/>
-	</clipPath>
-	<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="146.2098" y1="56.1302" x2="18.8598" y2="177.0302">
-		<stop  offset="0" style="stop-color:#FFA253"/>
-		<stop  offset="1" style="stop-color:#F34E25"/>
-	</linearGradient>
-	<rect x="29.3" y="23.9" clip-path="url(#SVGID_2_)" fill="url(#SVGID_3_)" width="141.4" height="152.2"/>
-</g>
-<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" points="122.8,102.2 120.7,126.3 100,131.8 100,131.9 79.3,126.3 
-	78,111.4 59.3,111.4 61.9,140.6 100,151.2 100,151.2 100,151.1 138.1,140.6 143.2,83.6 75.5,83.6 73.8,64.6 144.8,64.6 144.9,64.6 
-	146.5,46 53.5,46 58.5,102.2 "/>
+	 viewBox="0 0 480 800" enable-background="new 0 0 480 800" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="62.8863" y1="434.1868" x2="439.6677" y2="304.4506">
+	<stop  offset="0" style="stop-color:#F3461D"/>
+	<stop  offset="1" style="stop-color:#FF8B4E"/>
+</linearGradient>
+<path fill="url(#SVGID_1_)" d="M70.3,217.4h339.4c-9.6,107.3-19.2,214.3-28.8,321.6L240,582.6L98.9,538.7
+	C89.5,431.7,79.9,324.6,70.3,217.4"/>
+<polygon fill="#FFFFFF" points="294.7,405.3 289.7,463.1 240,476.3 240,476.6 190.3,463.1 187.2,427.4 142.3,427.4 148.6,497.4 
+	240,522.9 240,522.9 240,522.6 331.4,497.4 343.7,360.6 181.2,360.6 177.1,315 347.5,315 347.8,315 351.6,270.4 128.4,270.4 
+	140.4,405.3 "/>
 </svg>
