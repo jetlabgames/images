@@ -4,7 +4,7 @@
 	 viewBox="0 0 480 800" enable-background="new 0 0 480 800" xml:space="preserve">
 <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="62.8863" y1="434.1868" x2="439.6677" y2="304.4506">
 	<stop  offset="0" style="stop-color:#F3461D"/>
-	<stop  offset="1" style="stop-color:#FF8B4E"/>
+	<stop  offset="1" style="stop-color:#FF734E"/>
 </linearGradient>
 <path fill="url(#SVGID_1_)" d="M70.3,217.4h339.4c-9.6,107.3-19.2,214.3-28.8,321.6L240,582.6L98.9,538.7
 	C89.5,431.7,79.9,324.6,70.3,217.4"/>
